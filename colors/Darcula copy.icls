@@ -1,0 +1,50 @@
+<scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="PT Sans Caption" />
+  <attributes>
+    <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="2c6b6" />
+      </value>
+    </option>
+    <option name="ABSTRACT_METHOD_ATTRIBUTES">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="23e365" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ba69" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JAVA_COMMA">
+      <value>
+        <option name="FOREGROUND" value="ffd000" />
+        <option name="EFFECT_COLOR" value="6b7175" />
+      </value>
+    </option>
+    <option name="JAVA_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="BACKGROUND" value="343538" />
+      </value>
+    </option>
+    <option name="LOCAL_VARIABLE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="c6b07a" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="METHOD_CALL_ATTRIBUTES">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
